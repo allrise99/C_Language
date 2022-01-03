@@ -1,0 +1,11 @@
+10
+Temple University; Mark 20120001 8 3.70 80
+York University; Corey 20130002 7 4.01 95
+Alma College; Aaron 20130003 7 3.50 100
+York University; Tom 20140004 6 2.50 87
+Berlin 1960 University; Henry 20150005 5 4.23 100
+Temple University; Ariana 20160006 6 3.75 116
+Berlin 1960 University; Natasha 20170007 6 3.50 78
+York University; Sandy 20180008 4 3.45 100
+Temple University; Roman 20180009 5 3.87 85
+Alma College; Steve 20190010 3 3.85 89
